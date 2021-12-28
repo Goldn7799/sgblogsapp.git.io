@@ -1,0 +1,71 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.header {
+    color: white;
+    background-color: rgb(0, 162, 255);
+    margin: 1em auto;
+}
+
+.menu {
+    color: white;
+    padding-left: 5em;
+}
+
+.active {
+    color: aqua;
+    padding-left: 5em;
+}
+
+.avatar {
+    border-radius: 50px;
+    float: right;
+}
+
+.category {
+    margin: 0 0.1em;
+    padding: 0em 1em;
+    color: white;
+    background-color: azure;
+    font-size: x-small;
+}
+
+.category-dev {
+    background-color: greenyellow;
+}
+
+.category-helper {
+    background-color: red;
+}
+
+.category-admin {
+    background-color: blue;
+}
+
+.post {
+    padding-bottom: 2em;
+}
+
+.post-title {
+    font-size: 2em;
+    margin-bottom: 0.2em;
+}
+
+.desc {
+    line-height: 1.8em;
+}
+
+.link {
+    background-color: rgb(0, 162, 255);
+    color: rgba(255, 255, 255, 0.76);
+    border-radius: 1rem;
+}
+
+.link:hover {
+    background-color: rgba(0, 162, 255, 0.486);
+    color: rgb(255, 255, 255);
+    border-radius: 1rem;
+}
