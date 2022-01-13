@@ -69,3 +69,10 @@
     color: rgba(0, 0, 0, 0.863);
     border-radius: 1rem;
 }
+
+.tgl {
+    color: rgba(128, 128, 128, 0.801);
+    font-size: 0.25cm;
+    margin-top: -0.7cm;
+    margin-left: 4cm;
+}
